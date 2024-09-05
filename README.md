@@ -1,4 +1,4 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/327401572/original/7a5da0558ec7489d93b93ee50902878719b1c993/be-your-front-end-web-developer-using-html-css-bootstrap-react.jpg)
+[![MasterHead](https://cdn.kwork.com/pics/t3/88/32473264-6606ea888aff9.jpg)
 
 <h1 align="center">Hi 👋, I'm Fırat Akkuş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
