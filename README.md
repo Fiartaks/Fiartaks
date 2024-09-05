@@ -1,8 +1,11 @@
 [![MasterHead](https://cdn.kwork.com/pics/t3/88/32473264-6606ea888aff9.jpg)
 
 
-preview
 <h1 align="center">Hi 👋, I'm Fırat Akkuş</h1>
+<p>👀 I aim to produce code that is efficient, useful, and clear
+
+🌱 I’m currently focusing on React, React Native and Java Technologies.
+</p>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
