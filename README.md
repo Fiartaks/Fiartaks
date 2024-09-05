@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkwork.com%2Fhtml-services%2F32408288%2Fi-will-be-your-frontend-web-developer-using-html-css-bootstrap&psig=AOvVaw0GaR1qyu2l8djiGCmYiqS5&ust=1725657873680000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDTpNrerIgDFQAAAAAdAAAAABAw)
+[![MasterHead](https://cdn.kwork.com/pics/t3/88/32473264-6606ea888aff9.jpg)
 
 <h1 align="center">Hi 👋, I'm Fırat Akkuş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
