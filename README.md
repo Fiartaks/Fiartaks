@@ -24,4 +24,4 @@
 
 
 
-![snake gif](https://github.com/fiataks/fiartaks/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/fiartaks/fiartaks/blob/output/github-contribution-grid-snake.gif)
