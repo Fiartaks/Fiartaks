@@ -22,6 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiartaks&" alt="fiartaks" /></p>
 
-![snake gif](https://github.com/FiratAkkus/FiratAkkus/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Fiartaks/Fiartaks/blob/output/github-contribution-grid-snake.gif)
 
  
