@@ -53,9 +53,9 @@
  
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/fiartaks/fiartaks/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiartaks&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="fiartaks" />
-    <img heigth="160" width="182" src="https://github.com/fiartaks/fiartaks/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
