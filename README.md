@@ -1,5 +1,4 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/322670802/original/a6e52232e116e75b389f78050e68ed12ba841ed7/convert-figma-to-html-css-javascript-react-js-and-next-js.png)
-![](https://komarev.com/ghpvc/?username=fiartaks&color=blue)
+![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/306631568/original/8f16d998d87b574cb1177724834d73e8a34004b0/develop-html-css-javascript-react-web-application.png)
 <div align="center">
  <a href="https://github.com/fiartaks">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Fırat+Akkuş+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
