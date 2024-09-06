@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQH08dlPnGyuJQ/article-cover_image-shrink_720_1280/0/1693811160345?e=2147483647&v=beta&t=WZ6cOdhHRP5YiQg32iD_Kl1Hz0fbiIimHji94HrlI30)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQH7P5j8BbrUfg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1676059448789?e=2147483647&v=beta&t=bNhkrlhIxm1LtI4pa4UCUYeClCehM_4k076t2nmiY5c)
 
  ![](https://komarev.com/ghpvc/?username=fiartaks&color=blue)
 <div align="center">
