@@ -1,4 +1,4 @@
-![MasterHead](https://makeanapplike.com/wp-content/uploads/2021/11/react-js-and-react-native-banner-in-blue-black.png)
+![MasterHead](https://media.licdn.com/dms/image/D4D12AQH08dlPnGyuJQ/article-cover_image-shrink_720_1280/0/1693811160345?e=2147483647&v=beta&t=WZ6cOdhHRP5YiQg32iD_Kl1Hz0fbiIimHji94HrlI30)
 
  ![](https://komarev.com/ghpvc/?username=fiartaks&color=blue)
 <div align="center">
