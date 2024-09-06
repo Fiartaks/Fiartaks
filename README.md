@@ -17,16 +17,15 @@
 
 - 📫 How to reach me **fiartaks@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/fiartaks?theme=unicorn)](https://leetcode.com/fiartaks/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://linkedin.com/in/fiartaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://medium.com/@fiartaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fiartaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fiartaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cagatayakkas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fiartaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Firat Akkus" height="30" width="40" /></a>
+<a href="https://medium.com/@fiartaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fiartaks" height="30" width="40" /></a>
+ <a href="https://instagram.com/@firatakus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@firatakus" height="30" width="40" /></a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</p>
 </p>
 
 
@@ -42,23 +41,9 @@
 ![C++](https://img.shields.io/badge/-C++-365dbf.svg?logo=C%2B%2B&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-  <summary><h2>📸 My Latest YouTube Videos</h2></summary>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiartaks/fiartaks/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiartaks/fiartaks/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fiartaks/fiartaks/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 
 # Github Stats
@@ -68,7 +53,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/fiartaks/fiartaks/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiartaks&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiartaks&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="fiartaks" />
     <img heigth="160" width="182" src="https://github.com/fiartaks/fiartaks/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -80,9 +65,9 @@
  
  <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/fiartaks/fiartaks/blob/main/img/Bird%20Wing%20Left.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiartaks&theme=material-palenight&hide_border=false" alt="fiartaks" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/fiartaks/fiartaks/blob/main/img/Bird%20Wing%20Right.png">
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
  
@@ -95,7 +80,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiartaks&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
