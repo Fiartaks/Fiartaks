@@ -1,5 +1,5 @@
 ![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/306631568/original/8f16d998d87b574cb1177724834d73e8a34004b0/develop-html-css-javascript-react-web-application.png)
-<div align="center">
+
  ![](https://komarev.com/ghpvc/?username=fiartaks&color=blue)
 <div align="center">
  <a href="https://github.com/fiartaks">
