@@ -7,7 +7,7 @@
  </a>
 </div>
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=150 height=150 align="right">
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=175 height=175 align="right">
 
 
 <h3 align="left">&nbsp; A passionate React developer from Türkiye</h3>
