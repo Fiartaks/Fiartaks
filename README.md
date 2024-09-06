@@ -12,9 +12,10 @@
 
 <h3 align="left">&nbsp; A passionate React developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 👋 Hi, I’m @Fiartaks (Firat Akkus), My passion for programming began long before my formal education, and I have been actively honing my skills over the past several years. I am eager to learn and contribute to projects that inspire me. I am proficient in HTML, CSS, JavaScript and always excited to take on new challenges and collaborate with others in the tech community.
 
-- 💬 Ask me about **Javascript**
+
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **fiartaks@gmail.com**
 
