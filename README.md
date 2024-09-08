@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFJFYaRFGuNDg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1689847590217?e=2147483647&v=beta&t=llYteatLl7SYXYEV3yEjMX6rCn7852uYkEKIFKAylG8)
+![MasterHead](https://github.com/Fiartaks/Fiartaks/blob/main/l%C4%B1nked%C4%B1n%20arka%20plan%C4%B1.jpeg?raw=true)
 
  ![](https://komarev.com/ghpvc/?username=fiartaks&color=blue)
 <div align="center">
