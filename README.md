@@ -72,14 +72,7 @@
 
 
  
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiartaks&theme=material-palenight&hide_border=false" alt="fiartaks" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
- 
+
 
  
  <br />
@@ -96,17 +89,7 @@
  
   
   
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiartaks&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/fiartaks/github-readme-stats)
--->
 
-
-<br />
-
-![](https://github-profile-trophy.vercel.app/?username=fiartaks&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br />
 
 
 <br />
