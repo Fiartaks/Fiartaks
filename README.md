@@ -28,10 +28,13 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 </p>
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [FormData ile Formdan Obje Oluşturma](https://medium.com/@fiartaks/formdata-ile-formdan-obje-olu%C5%9Fturma-react-20-91737d82e3a7)
-- [React Vite ile Test Yaparken Describe Kullanımının Etkisi](https://medium.com/@fiartaks/react-vite-ile-test-yaparken-describe-kullan%C4%B1m%C4%B1n%C4%B1n-etkisi-react-16-0c7b87cd3ed1)
+- [Unit Testlerde İçerik Kontrolü: innerText mi, textContent mi? Hangisi Daha Kullanışlı?](https://medium.com/@fiartaks/unit-testlerde-i%CC%87%C3%A7erik-kontrol%C3%BC-innertext-mi-textcontent-mi-hangisi-daha-kullan%C4%B1%C5%9Fl%C4%B1-react-16-76f5a37cecd8)
+- [Gelin Firebase’in Kafasını Karıştırıyoruz: Aynı İsimle Resim Eklemek](https://medium.com/@fiartaks/gelin-firebasein-kafas%C4%B1n%C4%B1-kar%C4%B1%C5%9Ft%C4%B1r%C4%B1yoruz-ayn%C4%B1-i%CC%87simle-resim-eklemek-3a095dad5810)
+
 
 
 <!--
