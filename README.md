@@ -15,7 +15,7 @@
 - 👋 Hi, I’m @Fiartaks (Firat Akkus), My passion for programming began long before my formal education, and I have been actively honing my skills over the past several years. I am eager to learn and contribute to projects that inspire me. I am proficient in HTML, CSS, JavaScript and always excited to take on new challenges and collaborate with others in the tech community.
 
 - 🌅 Learn about my journey **https://printmyworks.netlify.app/**
-- 💬 Ask me about **Javascript**
+- ⚛️ My React diaries. **https://medium.com/@fiartaks**
 - 📫 How to reach me **fiartaks@gmail.com**
 
 
