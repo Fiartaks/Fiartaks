@@ -28,7 +28,10 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 </p>
-
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [FormData ile Formdan Obje Oluşturma](https://medium.com/@fiartaks/formdata-ile-formdan-obje-olu%C5%9Fturma-react-20-91737d82e3a7)
+- [React Vite ile Test Yaparken Describe Kullanımının Etkisi](https://medium.com/@fiartaks/react-vite-ile-test-yaparken-describe-kullan%C4%B1m%C4%B1n%C4%B1n-etkisi-react-16-0c7b87cd3ed1)
 
 
 <!--
