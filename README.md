@@ -12,14 +12,14 @@
  ![](https://komarev.com/ghpvc/?username=fiartaks&color=blue)
 <div align="center">
  <a href="https://github.com/fiartaks">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Fırat+Akkuş+%e2%9c%a8;%f0%9f%93%9a+Frontend+Developer+%f0%9f%92%bb;%f0%9f%93%9a+React+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Fırat+Akkuş+%e2%9c%a8;%f0%9f%93%9a+Full Stack Developer+%f0%9f%92%bb;%f0%9f%93%9a+React+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=175 height=175 align="right">
 
 
-<h3 align="left">&nbsp; A passionate React developer from Türkiye</h3>
+<h3 align="left">&nbsp; A passionate Full Stack Developer from Türkiye</h3>
 
 - 👋 Hi, I’m @Fiartaks (Firat Akkus), My passion for programming began long before my formal education, and I have been actively honing my skills over the past several years. I am eager to learn and contribute to projects that inspire me. I am proficient in HTML, CSS, JavaScript and React, always excited to take on new challenges and collaborate with others in the tech community.
 
