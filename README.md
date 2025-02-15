@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Fiartaks/Fiartaks/blob/main/l%C4%B1nked%C4%B1n%20arka%20plan%C4%B1.jpeg?raw=true)
+![MasterHead](https://github.com/Fiartaks/Fiartaks/blob/main/banner.jpeg)
 
  ![](https://komarev.com/ghpvc/?username=fiartaks&color=blue)
 <div align="center">
