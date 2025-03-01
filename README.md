@@ -23,6 +23,7 @@
 
 - 👋 Hi, I’m @Fiartaks (Firat Akkus), My passion for programming began long before my formal education, and I have been actively honing my skills over the past several years. I am eager to learn and contribute to projects that inspire me. I am proficient in HTML, CSS, JavaScript and React, always excited to take on new challenges and collaborate with others in the tech community.
 
+- [👨‍💻 My Portfolio](https://firatakkus.vercel.app/)
 - [🌅 Learn about my journey](https://medium.com/@fiartaks/su-y%C3%BCzeyi%CC%87nde-kod-yazmak-b3a61d29517d)
 - ⚛️ My React diaries. **https://medium.com/@fiartaks**
 - 📫 How to reach me **fiartaks@gmail.com**
