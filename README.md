@@ -35,7 +35,7 @@
   <a href="https://linkedin.com/in/fiartaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Firat Akkus" height="30" width="40" /></a>
   <a href="https://medium.com/@fiartaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fiartaks" height="30" width="40" /></a>
   <a href="https://instagram.com/@firatakus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@firatakus" height="30" width="40" /></a>
-  <a href="https://firatakkusportfolio.vercel.app/" target="blank"><img align="center" src="https://github.com/Fiartaks/Fiartaks/blob/main/portfolio.svg" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://firatakkusportfolio.vercel.app/" target="blank"><img align="center" src="https://getvectorlogo.com/wp-content/uploads/2023/05/portfolioplus-inc-vector-logo-xs.png" alt="Portfolio" height="30" width="40" /></a>
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 </p>
