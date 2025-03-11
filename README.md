@@ -25,8 +25,8 @@
 
 - [👨‍💻 My Portfolio](https://firatakkus.vercel.app/)
 - [🌅 Learn about my journey](https://medium.com/@fiartaks/su-y%C3%BCzeyi%CC%87nde-kod-yazmak-b3a61d29517d)
-- ⚛️ My React diaries : **https://medium.com/@fiartaks**
-- 📫 How to reach me : **fiartaks@gmail.com**
+- ⚛️ My React diaries **https://medium.com/@fiartaks**
+- 📫 How to reach me **fiartaks@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
