@@ -19,7 +19,7 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=175 height=175 align="right">
 
 
-<h3 align="left">&nbsp; A passionate Full Stack Developer from Türkiye</h3>
+<h3 align="left">&nbsp; A Passionate Full Stack Developer from Türkiye</h3>
 
 - 👋 Hi, I’m @Fiartaks (Fırat Akkuş), My passion for programming began long before my formal education, and I have been actively honing my skills over the past several years. I am eager to learn and contribute to projects that inspire me. I am proficient in React, Node.js, MongoDB and React Native with Kotlin, always excited to take on new challenges and collaborate with others in the tech community.
 
