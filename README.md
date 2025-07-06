@@ -1,3 +1,5 @@
+Haftada İki Proje Hedefim Var. 
+
 ## 🌟 Expertise
 
 | Front-End Development                                                                                                      | Back-End Development                                                                                               | Version Control                                                                    | React Native                                    |
