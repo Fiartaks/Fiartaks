@@ -1,6 +1,4 @@
-<p align="center">
-  <strong style="font-size: 24px; color: #00ff00;">Haftada İki Proje Hedefim Var! 💡</strong>
-</p>
+
 ## 🌟 Expertise
 
 | Front-End Development                                                                                                      | Back-End Development                                                                                               | Version Control                                                                    | React Native                                    |
