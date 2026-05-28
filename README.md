@@ -20,7 +20,6 @@
 
 - 👋 Hi, I’m @Fiartaks (Fırat Akkuş), My passion for programming began long before my formal education, and I have been actively honing my skills over the past several years. I am eager to learn and contribute to projects that inspire me. I am proficient in React, Node.js, MongoDB and React Native with Kotlin, always excited to take on new challenges and collaborate with others in the tech community.
 
-- [👨‍💻Portfolio](https://firatakkus.vercel.app/)
 - [🌅 Learn about my journey](https://medium.com/@fiartaks/su-y%C3%BCzeyi%CC%87nde-kod-yazmak-b3a61d29517d)
 - ⚛️ My React Diaries **https://medium.com/@fiartaks**
 - 📫 How to reach me **fiartaks@gmail.com**
